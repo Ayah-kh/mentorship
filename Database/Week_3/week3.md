@@ -1,7 +1,7 @@
 ##  DB schema
 ### ER diagram and relationships
 
-![ER diagream.png](ER%20diagream.png)
+![ER diagream.png](ER diagream.png)
 
 ### DB Schema creation
 ```sql

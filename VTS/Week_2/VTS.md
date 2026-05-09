@@ -1,13 +1,13 @@
 ## Task 1 - UI
 
 ### Employee Request Table View
-![UI- Employee1.png](UI-%20Employee1.png)
+![UI- Employee1.png](UI- Employee1.png)
 
 ### Employee Request Vacation Table
-![UI- Employee.png](UI-%20Employee.png)
+![UI- Employee.png](UI- Employee.png)
 
 ### Mangar Table View
-![UI- Manager.png](UI-%20Manager.png)
+![UI- Manager.png](UI- Manager.png)
 
 ## Add new Status with minimum change
 
@@ -38,12 +38,12 @@ public void performAction(String action, EmployeeRequestDto dto) {
 ![state_machine.drawio.png](state_machine.drawio.png)
 
 ## sequence diagram of the request
-![Seq- Employee Request Vacation.png](Seq-%20Employee%20Request%20Vacation.png)
+![Seq- Employee Request Vacation.png](Seq- Employee Request Vacation.png)
 
-![Seq- Employee Edit Vacation Request.png](Seq-%20Employee%20Edit%20Vacation%20Request.png)
+![Seq- Employee Edit Vacation Request.png](Seq- Employee Edit Vacation Request.png)
 
-![Seq- Employee Cancel Vacation Request.png](Seq-%20Employee%20Cancel%20Vacation%20Request.png)
+![Seq- Employee Cancel Vacation Request.png](Seq- Employee Cancel Vacation Request.png)
 
-![Seq- Manager Approve Vacation.png](Seq-%20Manager%20Approve%20Vacation.png)
+![Seq- Manager Approve Vacation.png](Seq- Manager Approve Vacation.png)
 
 
